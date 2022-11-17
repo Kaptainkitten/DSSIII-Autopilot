@@ -1,3 +1,5 @@
+//THIS VERSION IS UNSUPPORTED, YOUR SHIP WILL CRASH.
+//this version works on windows, linux and mac, and is unfinished.
 import pynput
 import time
 import os
