@@ -1,6 +1,5 @@
-;VERSION IS SUPPORTED. 
-;this version is intended for level 3 vicotry ship, it will only work on windows.
-;you need Auto Hotkey before running.
+;VERSION IS UNSUPPORTED. 
+
 F1::
 send /
 sleep 500
